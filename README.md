@@ -1,5 +1,7 @@
 # Sales Overview Analysis Report
 
+![Sales Overview Dashboard](Screenshots/dashboard.png)
+
 An interactive Power BI dashboard that analyzes current and previous year sales performance across regions using KPIs, YoY metrics, and dynamic slicers.
 
 ## Objective
